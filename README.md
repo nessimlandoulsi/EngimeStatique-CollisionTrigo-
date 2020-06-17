@@ -1,0 +1,2 @@
+# EngimeStatique-CollisionTrigo-
+~mtx
